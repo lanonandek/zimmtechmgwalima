@@ -2,6 +2,7 @@
 
 digitalhealthorg
 ZIMTTECH
+Download the zipped file in this repository
 
 I could not host the PHP application because of no online server space.
 
